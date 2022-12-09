@@ -23,6 +23,7 @@ public class Tests
         Console.WriteLine("Chrome Browser launched succefully");
         Console.WriteLine();      
         Console.WriteLine("Second set of changes for commit");  
+        Console.WriteLine("Third set of changes from respository");
         Assert.Fail();
     }
 
