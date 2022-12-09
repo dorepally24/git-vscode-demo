@@ -1817,11 +1817,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shivashankerd\\Desktop\\Framework\\Framework.csproj",
+      "projectUniqueName": "c:\\Users\\shivashankerd\\Desktop\\GitClone\\git-vscode-demo\\Framework.csproj",
       "projectName": "Framework",
-      "projectPath": "C:\\Users\\shivashankerd\\Desktop\\Framework\\Framework.csproj",
+      "projectPath": "c:\\Users\\shivashankerd\\Desktop\\GitClone\\git-vscode-demo\\Framework.csproj",
       "packagesPath": "C:\\Users\\shivashankerd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shivashankerd\\Desktop\\Framework\\obj\\",
+      "outputPath": "c:\\Users\\shivashankerd\\Desktop\\GitClone\\git-vscode-demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shivashankerd\\AppData\\Roaming\\NuGet\\NuGet.Config"

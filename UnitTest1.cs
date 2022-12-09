@@ -24,6 +24,7 @@ public class Tests
         Console.WriteLine();      
         Console.WriteLine("Second set of changes for commit");  
         Console.WriteLine("Third set of changes from respository");
+        Console.WriteLine("This is my New Brach Message");
         Assert.Fail();
     }
 

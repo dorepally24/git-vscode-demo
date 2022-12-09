@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\shivashankerd\\Desktop\\Framework\\Framework.csproj": {}
+    "c:\\Users\\shivashankerd\\Desktop\\GitClone\\git-vscode-demo\\Framework.csproj": {}
   },
   "projects": {
-    "c:\\Users\\shivashankerd\\Desktop\\Framework\\Framework.csproj": {
+    "c:\\Users\\shivashankerd\\Desktop\\GitClone\\git-vscode-demo\\Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\shivashankerd\\Desktop\\Framework\\Framework.csproj",
+        "projectUniqueName": "c:\\Users\\shivashankerd\\Desktop\\GitClone\\git-vscode-demo\\Framework.csproj",
         "projectName": "Framework",
-        "projectPath": "c:\\Users\\shivashankerd\\Desktop\\Framework\\Framework.csproj",
+        "projectPath": "c:\\Users\\shivashankerd\\Desktop\\GitClone\\git-vscode-demo\\Framework.csproj",
         "packagesPath": "C:\\Users\\shivashankerd\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\shivashankerd\\Desktop\\Framework\\obj\\",
+        "outputPath": "c:\\Users\\shivashankerd\\Desktop\\GitClone\\git-vscode-demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shivashankerd\\AppData\\Roaming\\NuGet\\NuGet.Config"
